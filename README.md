@@ -28,8 +28,11 @@ This challenge was hosted on Zindi Africa.
 
 • Interactive Visualizations
 
+• XGBoost Classifier (Not effective)
 
-### Frameworks used-
+• Logistic Regression (Not that effective)
+
+### Frameworks or Packages used-
 
 • Keras (Tensorflow)
 
@@ -44,6 +47,9 @@ This challenge was hosted on Zindi Africa.
 • Plotly 
 
 • Numpy
+
+• Imblearn
+
 
 ### Finally the best method was to use either DNNs or SVM Classifer (rbf)
 
