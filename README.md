@@ -54,3 +54,7 @@ This challenge was hosted on Zindi Africa.
 ### Finally the best method was to use either DNNs or SVM Classifer (rbf)
 
 #### Note- At the time of creation of repo, the competeion was over but private leaderboard was still active. Also all models are acting as base models to give a start. 
+
+#### Note- At the time of creation of repo, the competeion was over but private leaderboard was still active. Also all models are acting as base models to give a start. 
+
+Check out my Zindi profile- https://zindi.africa/users/adivyas99 ✌🏻
